@@ -5,7 +5,6 @@ Galton-Watson process.
 
 ## Usage
 To run the simulations launch the sim.R file, which recalls the sim_utilities.R file.  
-The file data_application.R preprocessed the real data conteined in data_COVID.csv.
 
 ## Citing us
 
